@@ -18,11 +18,16 @@ h2 {
   font-size: 8px;
 }
 a {
-  color: white;
+  color: black;
+  text-decoration: none;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
 }
 a:hover {
   text-decoration: none;
-  color: yellow;
+  color: white;
+  background-color: black;
 }
 #banner{
   text-align: center;
